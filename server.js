@@ -8,4 +8,4 @@ let requestHandler = (request, response) => {
 }
 
 const server = http.createServer(requestHandler);
-server.listen(config.port);
+server.listen(config.port, '0.0.0.0');
