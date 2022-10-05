@@ -1,0 +1,5 @@
+{
+  "port": 1337,
+  "allowedVerbs": ["GET"],
+  "fingerprint": "M4DN37 IP data service"
+}

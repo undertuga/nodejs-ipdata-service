@@ -2,7 +2,7 @@
   "name": "nodejs-ipdata-service",
   "version": "1.0.0",
   "description": "Node.JS based IP data service",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

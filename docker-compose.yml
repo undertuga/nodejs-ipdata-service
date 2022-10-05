@@ -9,5 +9,5 @@ services:
     volumes:
       - ./:/home/node/app
     expose:
-      - "80"
+      - "1337"
     command: "npm start"
