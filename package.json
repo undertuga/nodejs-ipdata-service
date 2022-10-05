@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-ipdata-service",
+  "version": "1.0.0",
+  "description": "Node.JS based IP data service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undertuga/nodejs-ipdata-service.git"
+  },
+  "keywords": [
+    "myip",
+    "ipdata",
+    "ipv4",
+    "ipv6",
+    "nodejs",
+    "whatsmyip",
+    "ipinfo"
+  ],
+  "author": "undertuga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undertuga/nodejs-ipdata-service/issues"
+  },
+  "homepage": "https://github.com/undertuga/nodejs-ipdata-service#readme"
+}
